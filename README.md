@@ -25,5 +25,5 @@
 - Activate swagger scan package classes-scan-packages: org.apache.cxf.jaxrs.swagger
 
 Result: 
-Swagger url: http://localhost:8080/services/api-docs?/services/swagger.json
+Swagger url: http://localhost:8080/services/api-docs?http://localhost:8080/services/swagger.json
 
